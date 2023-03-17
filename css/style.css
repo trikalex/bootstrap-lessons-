@@ -45,7 +45,8 @@ body {
 }
 
 .block-divider--orange {
-    background-color: #f05f40;
+    border-radius: 5px;
+    background-color: #726562;
 }
 
 .block-divider--short {
